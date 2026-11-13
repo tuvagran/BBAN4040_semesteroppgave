@@ -1,0 +1,9 @@
+.env
+__pycache__/
+*.pyc
+.venv/
+.ipynb_checkpoints/
+.DS_Store
+data/raw/*.json
+data/raw/*.json.part
+results/*_failure_log.csv

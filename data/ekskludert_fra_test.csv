@@ -1,0 +1,101 @@
+id,question,gold_answer,gold_program,n_steps,gold_inds
+GS/2015/page_171.pdf-1,what was the percentage change in securities sold under agreements to repurchase between 2014 and 2015?,-0.02433,"subtract(86069, 88215), divide(#0, 88215)",2,['table_3']
+PNC/2012/page_174.pdf-1,"the specific reserves in the alll as of december 31 , 2012 were what percent of the tdr portfolio?",0.20532,"divide(587, 2859)",1,"['table_7', 'text_5', 'text_6']"
+ABMD/2008/page_86.pdf-2,"what is the maximum percentage of the june 2008 , contingent consideration for impella that must be satisfied in cash ? t",0.32143,"divide(1.8, 5.6)",1,"['text_24', 'text_25']"
+FIS/2016/page_9.pdf-3,what percent of total consolidated revenues in 2016 was the gfs segment?,0.45991,"divide(4250, 9241)",1,"['table_2', 'table_4']"
+LMT/2014/page_77.pdf-4,what was the change in millions of the weighted average common shares outstanding for diluted computations from 2012 to 2013?,-1.9,"subtract(326.5, 328.4)",1,['table_3']
+AMT/2006/page_113.pdf-1,in 2004 what was the percent of the change in the employee liability for employee separations,-3813.0,"subtract(665, 2239), subtract(#0, 2239)",2,['table_1']
+HIG/2011/page_53.pdf-4,what was the percentage change in the reinsurance accounts from 2009 to 2010,0.22464,"subtract(169, 138), divide(#0, 138)",2,['text_13']
+AON/2018/page_87.pdf-1,what was the percent of the increase in the company recorded a liability for interest and penalties from 2017 to 2018,0.4,"subtract(77, 55), divide(#0, 55)",2,['text_7']
+JKHY/2017/page_26.pdf-2,jkhy's total 5 year return was what percent of the peer group?,1.18997,"divide(322.60, 271.10)",1,"['table_1', 'table_2']"
+FIS/2012/page_48.pdf-4,what is the unfavorable impact in the operating expense in 2012 resulting from a stronger u.s . dollar?,91.8,"subtract(100.8, 9.0)",1,['text_2']
+BLK/2017/page_121.pdf-2,what percent does the unamortized discount and debt issuance costs reduce the carrying amount by?,0.00536,"divide(27, 5041)",1,"['table_7', 'text_17']"
+MRO/2004/page_46.pdf-4,for the periods 10/01/04 2013 10/31/04 and 11/01/04 2013 11/30/04 what were the average price paid per share?,39.725,"add(40.51, 38.94), divide(#0, const_2)",2,"['table_2', 'table_3']"
+C/2015/page_96.pdf-3,"what was the difference in billions in net outflows from dec . 31 , 2014 to dec . 31 , 2015?",-32.1,"subtract(336.5, 368.6)",1,['table_2']
+GPN/2010/page_87.pdf-1,what is the after-tax share-based compensation cost in 2010?,11.8,"subtract(18.1, 6.3)",1,"['table_1', 'table_2']"
+ETR/2011/page_301.pdf-1,what is the percentage decrease in receivables from the money pool from 2010 to 2011?,-0.62548,"subtract(23596, 63003), divide(#0, 63003)",2,['table_2']
+UNP/2016/page_52.pdf-2,in 2015 what was the percent of the total operating revenue that was from chemical freight,0.17421,"divide(3474, 19941)",1,"['table_3', 'table_9']"
+GS/2013/page_63.pdf-3,what was the change in millions of total shareholders' equity from 2012 to 2013?,2751.0,"subtract(78467, 75716)",1,['table_3']
+BLL/2012/page_31.pdf-3,the five year total return for the period ending 12/31/2012 on ball corporation stock was how much greater than the same return on the s&p 500?,2.13755,"divide(207.62, 97.13)",1,"['table_1', 'table_3']"
+AWK/2018/page_146.pdf-4,"the company repurchased how many million shares of common stock in the open market for the years ended december 31 , 2018 and 2017?",1.3,"add(0.6, 0.7)",1,['text_7']
+GS/2014/page_40.pdf-1,what is the growth rate in operating expenses in 2014?,-0.01326,"subtract(22171, 22469), divide(#0, 22469)",2,['table_11']
+AMT/2008/page_94.pdf-1,"as of december 31 , 2008 , what was the percent of the maturities in 2012 of the aggregate carrying value of long-term debt , including capital leases",0.45298,"divide(1962822, 4333146)",1,"['table_3', 'table_8']"
+AMT/2010/page_99.pdf-2,what percentage of outstanding amounts under the company 2019s long-term financing arrangements is current in 2010?,0.0134,"divide(74896, 5587388)",1,"['table_14', 'table_15']"
+NCLH/2018/page_97.pdf-1,what is the percentage change in accred interest liability in 2018 compare to 2017?,0.16614,"subtract(37.2, 31.9), divide(#0, 31.9)",2,['text_14']
+ETR/2016/page_374.pdf-3,"what is the net change in net revenue during 20016 for entergy mississippi , inc.?",9.1,"subtract(705.4, 696.3)",1,"['table_1', 'table_7']"
+IPG/2006/page_77.pdf-1,what is the total interest expense incurred by the senior unsecured notes that was redeemed in august 2005?,7.2,"subtract(258.6, 250.0), subtract(#0, 1.4)",2,['text_3']
+AWK/2013/page_122.pdf-4,what was the net tax positions for 2012,22415.0,"add(40620, -18205)",1,"['table_1', 'table_2']"
+DVN/2018/page_35.pdf-3,what is the percentage increase in total expense from 2017 to 2018?,940.0,"subtract(156, 15), divide(#0, 15), multiply(#1, const_100)",3,"['table_3', 'text_2']"
+RSG/2013/page_123.pdf-2,what was the growth of the weighted-average estimated fair values of stock options granted from 2012 to 2013,0.10482,"subtract(5.27, 4.77), divide(#0, 4.77)",2,"['text_10', 'text_12']"
+UNP/2018/page_74.pdf-4,what percent of total minimum capital leases payments are due in 2020?,0.17261,"divide(155, 898)",1,"['table_2', 'table_7']"
+MRO/2003/page_84.pdf-1,"for natural gas options in place to manage the price risk , what is the change in the percentage of the anticipated natural gas purchases hedged between the first quarter of 2004 and the second quarter of 2004?",10.0,"subtract(60, 50)",1,['text_2']
+KHC/2018/page_132.pdf-2,"in july and august 2018 , what percent of debt carrying debt in december did they pay off?",0.07965,"add(31.2, 2.7), divide(2.7, #0)",2,"['text_0', 'text_12', 'text_4', 'text_8']"
+STT/2014/page_54.pdf-2,what is the roi of an investment in state street corporation from 20011 to 2012?,-0.11404,"subtract(101, 114), divide(#0, 114)",2,['table_1']
+LMT/2014/page_91.pdf-4,in 2014 what was the ratio of the estimated future benefit payments due in 2015 compared to the amount after 2020,0.15413,"divide(2070, 13430)",1,['table_1']
+CME/2010/page_91.pdf-1,what was the percentage change in receivables from brokers with in other current assets from 2009 to 2010?,0.27273,"subtract(11.2, 8.8), divide(#0, 8.8)",2,['table_5']
+HOLX/2009/page_151.pdf-3,"based on the fair value of the grant , how much money did the company lose when some of their grants were forfeited .",3516.0,"multiply(23.44, 150)",1,"['table_4', 'text_2']"
+ETR/2004/page_212.pdf-3,what is the net change in net revenue during 2004 for entergy louisiana?,-42.4,"subtract(931.3, 973.7)",1,"['table_1', 'table_8']"
+ECL/2017/page_79.pdf-1,what portion of total assets acquired of anios are intangible assets?,0.70481,"subtract(473.6, 139.8), divide(#0, 473.6)",2,"['table_1', 'table_6', 'text_1', 'text_2', 'text_3', 'text_4', 'text_5', 'text_6']"
+ETR/2016/page_150.pdf-1,what is the total expected payments on the bonds for the next 5 years for entergy louisiana investment recovery funding?,100.9,"add(21.7, 22.3), add(#0, 22.7), add(#1, 23.2), add(#2, 11)",4,['text_1']
+CMCSA/2008/page_36.pdf-1,scalable infrastructure represents what percent of capital expenditures incurred the cable segment during 2007?,0.1692,"divide(1014, 5993)",1,"['table_2', 'table_7']"
+FBHS/2017/page_22.pdf-2,what was the amount of sales in that went to international markets in millions,792.495,"multiply(5283.3, 15%)",1,"['table_5', 'text_11', 'text_14']"
+ETR/2016/page_374.pdf-2,"what is the growth rate in net revenue in 20016 for entergy mississippi , inc.?",0.01307,"subtract(705.4, 696.3), divide(#0, 696.3)",2,"['table_1', 'table_7']"
+LMT/2012/page_73.pdf-4,what is the percentage change in the weighted average common shares outstanding for basic computations from 2011 to 2012?,-0.03632,"subtract(323.7, 335.9), divide(#0, 335.9)",2,['table_1']
+JPM/2014/page_70.pdf-2,what percentage of total net revenue was due to net interest income in 2014?,0.46318,"divide(43634, 94205)",1,"['table_10', 'table_11']"
+CME/2017/page_89.pdf-1,what was the fluctuation between the effective tax expense rate and the statutory u.s . federal tax rate in 2016?,0.021,"subtract(35%, 32.9%)",1,"['table_1', 'table_9', 'text_1', 'text_15']"
+JPM/2018/page_90.pdf-2,"considering the net interest income managed basis in 2017 , what is the amount of expenses associated with liabilities , in millions of dollars?",2129182.0,"subtract(2180592, 51410)",1,"['table_1', 'table_4']"
+DG/2010/page_136.pdf-1,what is the maximum depreciation rate that can be used for furniture fixtures and equipment?,33.33333,"divide(const_100, 3)",1,['table_2']
+JKHY/2019/page_18.pdf-2,what was the 5 year total return for jkhy?,140.29,"subtract(240.29, 100.00)",1,['table_1']
+GS/2012/page_142.pdf-1,what was the percentage change in net derivative liabilities under bilateral agreements between 2011 and 2012?,-0.20479,"subtract(27885, 35066), divide(#0, 35066)",2,['table_1']
+GPN/2010/page_89.pdf-3,what was the total compensation expense for restricted stock recognized from 2008 to 2010,26.8,"add(12.1, 9.0), add(#0, 5.7)",2,['text_12']
+ABMD/2007/page_78.pdf-4,what is the growth rate in the weighted average fair value for options granted between 2005 to 2006?,0.16498,"subtract(8.05, 6.91), divide(#0, 6.91)",2,['text_22']
+PKG/2005/page_74.pdf-4,total purchase commitments over the next two years are what ( in thousands ) ?\\n\\n\\n,3772.0,"add(2408, 1364)",1,['table_1']
+DG/2005/page_44.pdf-3,what is the cost difference over lifo in the last two years?,12.1,"add(5.8, 6.3)",1,['text_3']
+APD/2018/page_30.pdf-2,what is the increase observed in the payment of dividends during 2017 and 2018?,0.14555,"divide(4.25, 3.71), subtract(#0, const_1)",2,['table_5']
+MMM/2015/page_93.pdf-1,in 2016 what was the ratio of the us to the international qualified and non-qualified pension benefits,4.81463,"divide(987, 205)",1,['table_1']
+MRO/2003/page_84.pdf-3,by what percentage did protect carrying values of excess inventories increase from 2002 to 2003?,0.39024,"subtract(-57, -41), divide(#0, -41)",2,['table_2']
+AMT/2012/page_50.pdf-1,"for the quarter december 31 , 2012 what was the percent of the total number of shares purchased in december",0.16534,"divide(102400, 619314)",1,"['table_3', 'table_4']"
+GS/2017/page_179.pdf-4,"what is the total amount of stock options cancelled in millions during 2017 , 2016 and 2015?",12.1,"add(4.6, 5.5), add(#0, const_2)",2,"['text_34', 'text_9']"
+C/2009/page_63.pdf-1,"in 2010 what was the ratio of the non-us pension plans , discretionary contributions to the postretirement benefit plans",2.22222,"divide(160, 72)",1,"['text_16', 'text_18']"
+AWK/2013/page_122.pdf-3,what is awk's 2012 unrecognized tax benefit as a percentage of gross liabilities?,0.04161,"divide(7532, 180993)",1,"['table_3', 'text_15']"
+UNP/2009/page_42.pdf-1,"what was the average cost per locomotive for the october 15 , 2009 purchase by the railroad?",2272727.27273,"divide(100, 44), multiply(#0, const_1000000)",2,"['text_2', 'text_3']"
+DG/2005/page_44.pdf-1,what was the percentage change in the excess of current cost over lifo cost was approximately between 2006 and 2005 .,-0.07937,"subtract(5.8, 6.3), divide(#0, 6.3)",2,['text_3']
+UNP/2011/page_33.pdf-4,what was the change in millions of average equity from 2009 to 2010?,1224.0,"subtract(17282, 16058)",1,['table_2']
+MRO/2004/page_46.pdf-1,what percentage of total number of shares purchased were repurchased in open-market transactions?,0.93571,"divide(42749, 45686)",1,"['table_5', 'text_19']"
+AAL/2013/page_18.pdf-3,what is the percentage effect of the hedges on the anticipated increase in the 2014 increase in fuel expenses,0.1954,"subtract(104, 87), divide(#0, 87)",2,['text_1']
+JKHY/2017/page_26.pdf-1,what was the percentage change in the s&p 500 stock performance from 2014 to 2015,0.07427,"subtract(161.43, 150.27), divide(#0, 150.27)",2,['table_3']
+AMT/2003/page_102.pdf-2,what is the expected percentage change in aggregate principal payments of long-term debt from 2004 to 2005?,0.48519,"subtract(109435, 73684), divide(#0, 73684)",2,['table_1']
+VNO/2014/page_57.pdf-1,what was the five year change in the vornado realty trust index?,101.0,"subtract(201, 100)",1,['table_1']
+JPM/2015/page_137.pdf-2,interest rate derivatives made up how much of the net total derivatives for 2015?,0.44176,"divide(26363, 59677)",1,"['table_1', 'table_6']"
+UNP/2007/page_25.pdf-1,what was the operating expenses in 2006 in millions,2688.88889,"divide(242, 9%)",1,['text_1']
+FIS/2017/page_64.pdf-4,what percent of the total increase or decrease would the euro be in 2017?,0.26923,"divide(35, 130)",1,"['table_2', 'table_5']"
+AMT/2007/page_127.pdf-1,what was the percentage change in the weighted average fair value for the espp shares purchased from 2007 to 2005,0.76505,"subtract(9.09, 5.15), divide(#0, 5.15)",2,['text_22']
+CB/2008/page_229.pdf-1,what is the growth rate in the net income of bermuda subsidiaries from 2007 to 2008?,-0.5544,"subtract(684, 1535), divide(#0, 1535)",2,['table_2']
+AON/2015/page_96.pdf-3,what is the average share price for the shares issued to employees in 2015 in u.k.?,719.68334,"multiply(2, const_1000000), divide(#0, 2779)",2,"['text_11', 'text_12']"
+WRK/2018/page_107.pdf-4,what percent would the balance by the end of 2018 increase if the unrecognized tax benefits were included?,1.94099,"add(108.7, 138.0), add(#0, 127.1), subtract(#1, 127.1), divide(#2, 127.1)",4,"['table_9', 'text_0', 'text_6']"
+ANSS/2012/page_93.pdf-1,for the year ended december 312012 what was the percent of the revenue by geographic area that was from the united states,0.33262,"divide(265436, 798018)",1,"['table_1', 'table_7']"
+AON/2018/page_87.pdf-2,"what is the decrease observed in the additions for tax positions of prior years , in millions?",2.0,"subtract(12, 10)",1,['table_3']
+ADBE/1999/page_64.pdf-3,what is the net change in the balance of accrual related to restructurings during 1999?,-8095.0,"subtract(772, 8867)",1,['table_1']
+DVN/2018/page_35.pdf-1,what was the ratio in the total tax expense from 2018 to 2017,10.4,"divide(156, 15)",1,['table_3']
+MSI/2007/page_70.pdf-2,"in 2006 , what was the net sales to the segment 2019s top five customers in millions",2430.0,"multiply(5400, 45%)",1,"['table_1', 'text_8']"
+HOLX/2009/page_151.pdf-1,"what is the total fair value of non-vested shares as of september 26 , 2009?",60829.2,"multiply(2770, 21.96)",1,['table_5']
+GIS/2017/page_31.pdf-1,in 2017 what was the percent of the total future estimated cash payments under existing contractual obligations associated with long-term debt that was due in 2018,0.07288,"divide(604.2, 8290.6)",1,['table_1']
+PNC/2014/page_111.pdf-2,"for equity investment balances including unfunded commitments what was the change in millions between december 31 , 2014 and december 31 , 2013/",-85.0,"subtract(717, 802)",1,"['text_14', 'text_17']"
+C/2008/page_22.pdf-4,what was the total pretax gains in millions for the sale so mastercard shares from 2006 to 2007?,704.0,"add(581, 123)",1,['table_4']
+ETR/2011/page_17.pdf-2,what is the total amount of variance that favorably affected net revenue in 2011?,86.0,"add(13, 24), add(#0, 49)",2,"['table_5', 'table_6', 'table_7']"
+DISCA/2014/page_64.pdf-1,"what was the percentage cumulative total shareholder return on disca common stock for the five year period ended december 31 , 2014?",1.2465,"subtract(224.65, const_100), divide(#0, const_100)",2,['table_1']
+PPG/2012/page_29.pdf-2,what was the average cost per share for the share repurchases in 2012?,92.0,"divide(92, 1)",1,['text_36']
+MRK/2013/page_125.pdf-1,based on the reconciliation what was the percent of the change in the unrecognized tax benefits from 2011 to 2012,0.0346,"subtract(4425, 4277), divide(#0, 4277)",2,['table_7']
+PNC/2015/page_93.pdf-2,"for principle and interest products , what percent of the total was due in 2020 and thereafter?",0.72201,"divide(5758, 7975)",1,"['table_5', 'table_6']"
+ZBH/2009/page_58.pdf-1,what percentage of total contractual obligations is made up long-term debt?,0.41467,"divide(1127.6, 2719.3)",1,"['table_1', 'table_7']"
+RSG/2018/page_135.pdf-1,based on the december 31 2018 target what was the debt to equity ratio,4.55556,"divide(82, 18)",1,"['table_1', 'table_2']"
+BLK/2015/page_124.pdf-1,what percent of future commitments are due after 2020?,0.4655,"divide(560, 1203)",1,"['table_6', 'table_7', 'text_25']"
+D/2002/page_87.pdf-4,what is the growth rate in rental expense included in other operations and maintenance expense in 2001 compare to 2000?,-0.29907,"subtract(75, 107), divide(#0, 107)",2,['text_23']
+UAA/2016/page_42.pdf-4,what was the percentage change in working capital from 2015 to 2016?,0.25431,"subtract(1279337, 1019953), divide(#0, 1019953)",2,['table_2']
+DRE/2008/page_46.pdf-1,what is the net income per common share in 2008?,0.38537,"divide(56616, 146915)",1,"['table_1', 'table_4', 'text_3', 'text_5']"
+DG/2007/page_67.pdf-1,what was the change in millions of impairment charges included in sg&a expense from 2006 to 2007,-9.2,"subtract(0.2, 9.4)",1,['text_10']
+LMT/2014/page_91.pdf-3,"what is the difference in estimated future benefit payments for retiree medical and life insurance plans between 2015 and 2016 , in millions?",10.0,"subtract(200, 190)",1,['table_2']
+ETR/2015/page_17.pdf-2,what is the growth rate of net revenue from 2014 to 2015 ?,0.01639,"subtract(5829, 5735), divide(#0, 5735)",2,"['table_1', 'table_8']"
+ADBE/2008/page_74.pdf-1,what is the yearly amortization rate for the purchased technology?,25.0,"divide(const_100, 4)",1,['table_1']
+AMT/2016/page_125.pdf-4,what were the average tax penalties from 2014 to 2016 in millions,6.3,"add(9.2, 3.2), add(6.5, #0), divide(#1, const_3)",3,['text_4']
+RSG/2012/page_93.pdf-2,what was the percentage change in the additions charged to expense from 2011 to 2012 as part of the allowance for doubtful accounts,0.41429,"subtract(29.7, 21.0), divide(#0, 21.0)",2,['table_2']
