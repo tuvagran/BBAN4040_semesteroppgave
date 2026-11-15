@@ -1,6 +1,6 @@
 # BBAN4040 Språkmodeller – semesteroppgave (gruppe 3)
 
-**Problemstilling:** I hvilken grad gir en mer ressurskrevende LLM-agent flere riktige svar på numeriske spørsmål i FinQA enn en fast RAG-pipeline med lavere ressursbehov, når begge systemene har tilgang til den samme kalkulatoren?
+**Problemstilling:** Er det forskjell i andelen riktige svar på numeriske spørsmål i FinQA mellom en LLM-agent og en fast RAG-pipeline når begge har tilgang til de samme verktøyene, og forsvarer en eventuell forskjell i treffsikkerhet forskjellen i ressursbruk?
 
 To systemer besvarer de samme spørsmålene fra FinQA med samme språkmodell, søk og kalkulator. Det eneste som skiller dem, er hvem som styrer verktøybruken:
 
